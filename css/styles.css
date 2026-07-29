@@ -71,11 +71,11 @@ a { color: inherit; text-decoration: none; }
 /* ---------- Header (logo + nav) ---------- */
 .site-header {
   position: absolute;
-  top: 68px;
+  top: 50px;
   left: 0;
   right: 0;
   z-index: 30;
-  padding: 20px 0;
+  padding: 12px 0;
 }
 
 .site-header__inner {
